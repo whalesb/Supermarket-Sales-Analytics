@@ -19,7 +19,8 @@ Key techniques applied:
 ### Key Findings:  
 - **Branch Performance**:  
   - Branches **A** and **B** generate similar gross incomes, indicating steady performance.  
-  - Branch **C** slightly underperforms compared to the others.  
+  - Branch **C** slightly overperforms compared to the others.
+    ![image alt](https://github.com/whalesb/Supermarket-Sales-Analytics/blob/main/images/branch%20income%20comparison%20.png)
 
 - **Customer Segmentation**:  
   - Members and Normal customers contribute equally to sales, but Normal customers exhibit greater transaction variability.  
